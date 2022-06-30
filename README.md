@@ -3,3 +3,6 @@
 
 2022.06.28.Tue
 My name is Junsuk Lim
+
+2022.06.30.Thu
+Web studying first day
