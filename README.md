@@ -6,3 +6,6 @@ My name is Junsuk Lim
 
 2022.06.30.Thu
 Web studying first day
+
+2022.07.01.FRI
+July start
