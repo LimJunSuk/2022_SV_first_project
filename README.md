@@ -7,5 +7,8 @@ My name is Junsuk Lim
 2022.06.30.Thu
 Web studying first day
 
-2022.07.01.FRI
+2022.07.01.Fri
 July start
+
+2022.07.03.Sun
+SPRING camp will start
