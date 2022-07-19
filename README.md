@@ -14,4 +14,7 @@ July start
 SPRING camp will start
 
 2022.07.04.Mon
-SPRIN camp first class
+SPRING camp first class
+
+2022.07.19.Tue
+SPRING camp 3rd week start
